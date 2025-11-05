@@ -1,61 +1,32 @@
 # Welcome to CREST
 We have 2 products which helps businesses track digital assets such as Laptop, Windows Servers, Desktops & Powerplants.<br>
-<br>
 Supported OS - Windows, Windows Server & Mac OS.
 
-## Demo itam 
+---
 
-#### Windows
+## Demo ITAM
 
-[repo](https://github.com/CrestITITAM/DemoCrestIt) |
-[download](https://github.com/CrestITITAM/DemoCrestIt/releases/latest) |
-[releases](https://github.com/CrestITITAM/DemoCrestIt/releases)
+| OS            | Repository Link                                                 | Download Link                                                                                     | Latest Release                                                                                   |
+|---------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Windows       | [repo](https://github.com/CrestITITAM/DemoCrestIt)             | [download](https://github.com/CrestITITAM/DemoCrestIt/releases/latest)                          | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/DemoCrestIt.svg?label=)](https://github.com/CrestITITAM/DemoCrestIt/releases/latest) |
+| Windows Server| [repo](https://github.com/CrestITITAM/demoServerITAM)          | [download](https://github.com/CrestITITAM/demoServerITAM/releases/latest)                      | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/demoServerITAM.svg?label=)](https://github.com/CrestITITAM/demoServerITAM/releases/latest) |
+| Mac OS        | [repo](https://github.com/CrestITITAM/DemoMac)                 | [download](https://github.com/CrestITITAM/DemoMac/releases/latest)                              | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/DemoMac.svg?label=)](https://github.com/CrestITITAM/DemoMac/releases/latest) |
 
-#### Windows Server
+---
 
-[repo](https://github.com/CrestITITAM/demoServerITAM) |
-[download](https://github.com/CrestITITAM/demoServerITAM/releases/latest) |
-[releases](https://github.com/CrestITITAM/demoServerITAM/releases)
+## Business V3 ITAM
 
-#### Mac OS
+| OS            | Repository Link                                                     | Download Link                                                                                     | Latest Release                                                                                   |
+|---------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Windows       | [repo](https://github.com/CrestITITAM/windows-businessv3)         | [download](https://github.com/CrestITITAM/windows-businessv3/releases/latest)                  | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/windows-businessv3.svg?label=)](https://github.com/CrestITITAM/windows-businessv3/releases/latest) |
+| Windows Server| [repo](https://github.com/CrestITITAM/windows_server-businessv3)  | [download](https://github.com/CrestITITAM/windows_server-businessv3/releases/latest)          | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/windows_server-businessv3.svg?label=)](https://github.com/CrestITITAM/windows_server-businessv3/releases/latest) |
+| Mac OS        | [repo](https://github.com/CrestITITAM/mac-businessv3)              | [download](https://github.com/CrestITITAM/mac-businessv3/releases/latest)                       | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/mac-businessv3.svg?label=)](https://github.com/CrestITITAM/mac-businessv3/releases/latest) |
 
-[repo](https://github.com/CrestITITAM/DemoMac) |
-[download](https://github.com/CrestITITAM/DemoMac/releases/latest) |
-[releases](https://github.com/CrestITITAM/DemoMac/releases)
+---
 
+## Business ITAM (Old)
 
-## Business V3 itam 
-
-#### Windows
-
-[repo](https://github.com/CrestITITAM/windows-businessv3) |
-[download](https://github.com/CrestITITAM/windows-businessv3/releases/latest) |
-[releases](https://github.com/CrestITITAM/windows-businessv3/releases)
-
-#### Windows Server
-
-[repo](https://github.com/CrestITITAM/windows_server-businessv3) |
-[download](https://github.com/CrestITITAM/windows_server-businessv3/releases/latest) |
-[releases](https://github.com/CrestITITAM/windows_server-businessv3/releases)
-
-#### Mac OS
-
-[repo](https://github.com/CrestITITAM/mac-businessv3) |
-[download](https://github.com/CrestITITAM/mac-businessv3/releases/latest) |
-[releases](https://github.com/CrestITITAM/mac-businessv3/releases)
-
-
-## Business itam (old)
-
-#### Windows
-
-[repo](https://github.com/CrestITITAM/LiveBusinessEpromptoITAM) |
-[download](https://github.com/CrestITITAM/LiveBusinessEpromptoITAM/releases/latest) |
-[releases](https://github.com/CrestITITAM/LiveBusinessEpromptoITAM/releases)
-
-#### Mac OS
-
-[repo](https://github.com/CrestITITAM/LiveMacEprompto) |
-[download](https://github.com/CrestITITAM/LiveMacEprompto/releases/latest) |
-[releases](https://github.com/CrestITITAM/LiveMacEprompto/releases)
-
+| OS         | Repository Link                                                         | Download Link                                                                                     | Latest Release                                                                                   |
+|------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| Windows    | [repo](https://github.com/CrestITITAM/LiveBusinessEpromptoITAM)        | [download](https://github.com/CrestITITAM/LiveBusinessEpromptoITAM/releases/latest)            | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/LiveBusinessEpromptoITAM.svg?label=)](https://github.com/CrestITITAM/LiveBusinessEpromptoITAM/releases/latest) |
+| Mac OS     | [repo](https://github.com/CrestITITAM/LiveMacEprompto)                 | [download](https://github.com/CrestITITAM/LiveMacEprompto/releases/latest)                     | [![Latest Release](https://img.shields.io/github/release/CrestITITAM/LiveMacEprompto.svg?label=)](https://github.com/CrestITITAM/LiveMacEprompto/releases/latest) |
