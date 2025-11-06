@@ -4,7 +4,7 @@ We have 2 products which help businesses track digital assets such as Laptops, W
 **Supported OS** – Windows, Windows Server & macOS.
 
 
-### 🚀 Demo ITAM
+### Demo ITAM
 
 | OS             | Repository Link | Download / Latest Release | All Releases |
 |----------------|----------------|----------------------------|---------------|
@@ -13,7 +13,7 @@ We have 2 products which help businesses track digital assets such as Laptops, W
 | **Mac OS** | [repo](https://github.com/CrestITITAM/DemoMac) | [download](https://github.com/CrestITITAM/DemoMac/releases/latest) [![Latest Release](https://img.shields.io/github/release/CrestITITAM/DemoMac.svg?label=)](https://github.com/CrestITITAM/DemoMac/releases/latest) | [all releases](https://github.com/CrestITITAM/DemoMac/releases) |
 
 
-### 💼 Business V3 ITAM
+### Business V3 ITAM
 
 | OS             | Repository Link | Download / Latest Release | All Releases |
 |----------------|----------------|----------------------------|---------------|
@@ -22,7 +22,7 @@ We have 2 products which help businesses track digital assets such as Laptops, W
 | **Mac OS** | [repo](https://github.com/CrestITITAM/mac-businessv3) | [download](https://github.com/CrestITITAM/mac-businessv3/releases/latest) [![Latest Release](https://img.shields.io/github/release/CrestITITAM/mac-businessv3.svg?label=)](https://github.com/CrestITITAM/mac-businessv3/releases/latest) | [all releases](https://github.com/CrestITITAM/mac-businessv3/releases) |
 
 
-### 🏢 Business ITAM (Old)
+### Business ITAM (Old)
 
 | OS         | Repository Link | Download / Latest Release | All Releases |
 |-------------|----------------|----------------------------|---------------|
